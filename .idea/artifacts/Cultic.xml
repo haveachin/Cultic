@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="jar" name="Cultic">
-    <output-path>$PROJECT_DIR$/../Spigot-1.15.2/plugins</output-path>
+    <output-path>$USER_HOME$/Spigot-1.15.2/plugins</output-path>
     <root id="archive" name="Cultic.jar">
       <element id="module-output" name="Cultic" />
     </root>
